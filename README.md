@@ -73,7 +73,14 @@ Serial communication parameters:
 
 Before start of reading data, we need to configure uart. We need to turn on it and remouve Bluethoth from uart pins. 
 
-we need to check uart 
+Enter the command in the Raspberry Pi terminal: sudo raspi-config nonint do_serial
+Select NO in the first pop-up window, YES in the second one, and OK for the final one.
+<img width="595" height="376" alt="image" src="https://github.com/user-attachments/assets/89b656fe-6001-4059-a3ac-811a6edf3ef6" />
+<img width="602" height="374" alt="image" src="https://github.com/user-attachments/assets/d42c664d-4a09-4f7a-9892-73632107f8f8" />
+<img width="603" height="379" alt="image" src="https://github.com/user-attachments/assets/9c52e6ca-dffb-4467-b645-0ee9955bc81b" />
+
+
+After turning on UART, we need to check it:
 
 maksym@Maks:~ $ ls -l /dev/serial0
 
