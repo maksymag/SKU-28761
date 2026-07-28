@@ -83,7 +83,7 @@ Select NO in the first pop-up window, YES in the second one, and OK for the fina
 
 After turning on UART, we need to check it:
 
-maksym@Maks:~ $ ls -l /dev/serial0
+maksym@Maks:~ $ `ls -l /dev/serial0`
 
 usually, we will reciwe this result:
 
