@@ -48,8 +48,9 @@ To the left of the VCC pin is the GND pin. Connect it to GND on the Raspberry Pi
 
 This sencor doesn't have led or other indicators of work, and we can to detect it's work only with code, or toching (it will be a little warm)
 
-Also, you can read more about conections by this link: 
+Also, you can read more about conections by this links: 
 https://www.waveshare.com/tof-laser-range-sensor-mini.htm?srsltid=AfmBOoq7MHUcPWnI8b9-EXzjx9gurMEgyY4MUpDriKYHCVpLBbaeAQsS 
+https://www.waveshare.com/wiki/TOF_Laser_Range_Sensor_Mini
 
 Chapter 3: Reading lidar data
 
