@@ -40,8 +40,6 @@ Chapter 2: Lidar conncetion
 This drowing shows us wiring between SKU 28761 and the Raspberry Pi 3B+ via uart. The diagram shows a Raspberry Pi 4 Model B, but the four pins we need are located in the same positions on the Raspberry Pi 3B+.
 <img width="1280" height="799" alt="Key_with_capacitor" src="https://github.com/user-attachments/assets/cb13d7a1-b5c5-441a-bdf2-5199ec767a21" />
 
- 
- <img width="960" height="641" alt="TOF-Laser-Range-Sensor-Mini-details-13" src="https://github.com/user-attachments/assets/8b854f2c-eb49-415e-b981-d3764dfd11e5" />
 <img width="1280" height="799" alt="Key_with_capacitor_marked" src="https://github.com/user-attachments/assets/70531e3d-4493-4d22-921e-439e58b54268" />
 
 
