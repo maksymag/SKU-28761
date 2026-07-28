@@ -87,7 +87,7 @@ maksym@Maks:~ $ ls -l /dev/serial0
 
 usually, we will reciwe this result:
 
-lrwxrwxrwx 1 root root 5 Jul 27 11:05 /dev/serial0 -> ttyS0
+lrwxrwxrwx 1 root root 5 Jul 27 11:05 /dev/serial0 -> ttyS0  
 ttyS0 is a mini-uart, and we need to change this status.
 
 We should to open configs, and write target parameters in the end of this file:
