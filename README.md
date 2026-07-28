@@ -50,6 +50,7 @@ This sencor doesn't have led or other indicators of work, and we can to detect i
 
 Also, you can read more about conections by this links: 
 https://www.waveshare.com/tof-laser-range-sensor-mini.htm?srsltid=AfmBOoq7MHUcPWnI8b9-EXzjx9gurMEgyY4MUpDriKYHCVpLBbaeAQsS 
+
 https://www.waveshare.com/wiki/TOF_Laser_Range_Sensor_Mini
 
 Chapter 3: Reading lidar data
