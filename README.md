@@ -99,7 +99,7 @@ dtoverlay=disable-bt
 After, we need to press contrl x, and save changes (press y, anf Enter on the keyboard)
 
 Also, we need to disable bluethoth in other way:
-maksym@Maks:~ $ sudo systemctl disable hciuart 
+maksym@Maks:~ $ `sudo systemctl disable hciuart` 
 
 And reboot system after it:
 maksym@Maks:~ $ sudo reboot
