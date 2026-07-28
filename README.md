@@ -44,7 +44,6 @@ This drowing shows us wiring between SKU 28761 and the Raspberry Pi 3B+ via uart
  <img width="960" height="641" alt="TOF-Laser-Range-Sensor-Mini-details-13" src="https://github.com/user-attachments/assets/8b854f2c-eb49-415e-b981-d3764dfd11e5" />
 <img width="1280" height="799" alt="Key_with_capacitor_marked" src="https://github.com/user-attachments/assets/70531e3d-4493-4d22-921e-439e58b54268" />
 
- ![Key with capacitor marked](Key_with_capacitor_marked.jpg)
 
 Here, you can see the capacitor. The VCC pin is located on this side and should be connected to the +5V pin on the Raspberry Pi.
 To the left of the VCC pin is the GND pin. Connect it to GND on the Raspberry Pi. Next, connect the Raspberry TX pin, followed by the RX pin, as shown in the previous image.
